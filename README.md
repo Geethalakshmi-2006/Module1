@@ -134,3 +134,4 @@ print(men_stepped_on_the_moon)
 
 ## Result
 Successfully wrote a Python program to read a string from the user and then print it.
+
